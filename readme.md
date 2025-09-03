@@ -40,3 +40,4 @@ Jupyter Notebook 文件侧重于后面的可视化部分。可视化部分的解
 
 1. 运行Qlib自带的多个机器学习模型（使用alpha158和alpha360数据集）[链接](https://github.com/microsoft/qlib?tab=readme-ov-file#quant-model-paper-zoo)
 2. 自定义数据集（因子+label） [链接](https://qlib.readthedocs.io/en/latest/advanced/alpha.html)
+3. 滚动训练以适应市场风格变化 [链接](https://github.com/microsoft/qlib?tab=readme-ov-file#adapting-to-market-dynamics)
