@@ -1,5 +1,7 @@
 # Exclude raw data directory
 qlib_data/
 mlruns/
+tests/__pycache__/
+tests/mlruns/
 test.ipynb
 test.py

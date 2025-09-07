@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug Qlib Multi-Freq",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/qlib/cli/run.py",
+            "args": ["tests/workflow_config_lightgbm_multi_freq.yaml"],
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "justMyCode": false
+        }
+    ]
+}
